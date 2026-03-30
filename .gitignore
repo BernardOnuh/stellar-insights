@@ -30,11 +30,7 @@ dev.db
 stellar_insights.db
 
 # Environment files - NEVER commit!
-.env
-.env.local
 .env.*.local
-.env.production
-.env.development
 
 # ============================================
 # IDE and Editor files
@@ -78,3 +74,4 @@ temp/
 # ============================================
 requirements.md
 AGENTS.md
+config.bat
